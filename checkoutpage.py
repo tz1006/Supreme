@@ -2,7 +2,7 @@
 from ghost import Ghost, Session
 from datetime import datetime
 
-item_url = 'http://www.supremenewyork.com/shop/jackets/paqit58sw/zsq01xw7m'
+item_url = 'http://www.supremenewyork.com/shop/accessories/oi6nqp83m/hsyw4g52m'
 checkout_url = 'https://www.supremenewyork.com/checkout'
 ##############################
 ua = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
